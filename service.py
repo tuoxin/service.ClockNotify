@@ -7,8 +7,6 @@ import xbmcvfs
 import os
 import urllib2
 import resources.lib.utils as utils
-from resources.lib.croniter import croniter
-from resources.lib.cronclasses import CronSchedule, CustomPathFile
 
 UPGRADE_INT = 1  #to keep track of any upgrade notifications
 
